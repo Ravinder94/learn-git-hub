@@ -8,7 +8,7 @@ should be centrelized, so that other team memebers can get your updated code and
 We can maintain working code in stable or major version, we can take or create new branch from existing branch and we can add code to 
 that new branch,once if it works fine then we can merge it with stable version
 
-I hope this will help you friends
+I hope this will help you folks
 
 Regards
 
