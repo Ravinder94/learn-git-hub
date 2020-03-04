@@ -1,0 +1,12 @@
+Hi friends,
+
+
+This is ravinder karnati
+As a developers we need to use versioning control system to know what code we added latestly and what is the current version and everyting
+should be centrelized, so that other team memebers can get your updated code and they can work
+
+I hope this will help you friends
+
+Thanks and regards
+
+Ravinder Karnati
