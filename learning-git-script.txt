@@ -10,6 +10,6 @@ that new branch,once if it works fine then we can merge it with stable version
 
 I hope this will help you friends
 
-Thanks and regards
+Regards
 
 Ravinder Karnati
