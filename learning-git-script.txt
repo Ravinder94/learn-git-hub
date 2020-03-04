@@ -5,6 +5,9 @@ This is ravinder karnati
 As a developers we need to use versioning control system to know what code we added latestly and what is the current version and everyting
 should be centrelized, so that other team memebers can get your updated code and they can work
 
+We can maintain working code in stable or major version, we can take or create new branch from existing branch and we can add code to 
+that new branch,once if it works fine then we can merge it with stable version
+
 I hope this will help you friends
 
 Thanks and regards
